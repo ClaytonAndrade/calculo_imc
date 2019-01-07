@@ -1,5 +1,2 @@
 # calculo_imc
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/ClaytonAndrade/calculo_imc/blob/master/screen/sreen_imc.jpeg)
